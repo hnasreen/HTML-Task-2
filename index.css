@@ -1,0 +1,43 @@
+.box{
+    margin:80px 200px;
+    border: 2px solid black;
+}
+h5{
+    display: inline-block;
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 2px 80px;
+    }
+.box-part{
+    margin:30px 10px;
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:10px
+    
+}
+.fa{
+    border:1px solid black;
+
+}
+b{
+   margin-bottom:30px;
+}
+.col1{
+    text-align:center;
+    position: relative;
+    float: left;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top:20px
+}
+.col2{
+    position: relative;
+    float: right;
+   width:60%
+}
+.row{
+    justify-content: space-around;
+}
+
